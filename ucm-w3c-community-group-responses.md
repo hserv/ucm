@@ -2,7 +2,7 @@
 
 ## **What problem(s) do you want to solve?**
 [italics represent open questions/tasks]
-Organizations involved in healthcare, social care, housing, justice, education, and other human-service domains increasingly need to exchange, integrate, and reason over information that spans multiple care domains. While many standards, information models, and ontologies exist, they are often developed independently and reflect different perspectives, assumptions, and semantic structures. 
+Organizations involved in healthcare, social care, housing, justice, education, and other human-service domains increasingly need to exchange, integrate, and reason over information that spans multiple care domains. While many standards, information models, and ontologies exist, they are often developed independently and reflect different perspectives, assumptions, and semantic structures.  This coordination is important for clinical care.
 
 *Add concept that this is (clinically) necessary, not optional.* 
 
