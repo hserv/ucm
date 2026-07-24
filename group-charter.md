@@ -59,7 +59,7 @@ ontology. SULO provides the high-level semantic categories and relationships nee
 logically rigorous and interoperable semantic structure while allowing the Community Group to
 specialize concepts required for healthcare and human-service domains.
 
-##Guiding Principles
+## Guiding Principles
 • Openness and transparency
 • Community-driven consensus
 • Semantic precision
@@ -70,7 +70,7 @@ specialize concepts required for healthcare and human-service domains.
 • Reuse rather than replacement of existing standards
 • Reusable semantic concepts and relationship patterns tot assist the alignment of domain-specific models.
 
-##Non-Goals
+## Non-Goals
 The UCM does not replace HL7 FHIR, HL7 CDA, HL7 Version 2, X12, openEHR, NIEM, SNOMED CT, LOINC,
 RxNorm, or other standards. It does not define new exchange formats or reusable domain information
 models. Instead, it provides the semantic bridge that enables semantic alignment among them.
