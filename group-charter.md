@@ -15,12 +15,12 @@ requiring changes to those standards or models.
 The mission of the Community Group is to collaboratively develop and maintain the Unified Care Model
 (UCM), an open semantic conceptual structure that serves as a semantic bridge across healthcare and
 human-service ecosystems. Through community-driven use cases and consensus-based development, the
-Group will establish a common semantic foundation that enables semantic interoperability while
+Group will establish a common semantic structure that enables semantic interoperability while
 complementing, rather than replacing, existing standards and information models.
 
 ## What is the UCM?
 The Unified Care Model (UCM) is an open semantic conceptual structure that provides a common
-semantic foundation for achieving semantic interoperability across healthcare and human-service
+semantic structure for achieving semantic interoperability across healthcare and human-service
 ecosystems. It serves as a semantic bridge that enables standards, ontologies, information models, and data
 models developed by independent communities to communicate with a shared understanding of
 information while preserving the semantics expressed by those models.
@@ -56,7 +56,7 @@ The Community Group will build upon W3C Semantic Web standards, including RDF, R
 SHACL, to ensure that the UCM is open, computable, and interoperable within the broader Web of Data.
 The UCM will adopt and extend the Simple Upper-Level Ontology (SULO) as its foundational upper
 ontology. SULO provides the high-level semantic categories and relationships needed to establish a
-logically rigorous and interoperable semantic foundation while allowing the Community Group to
+logically rigorous and interoperable semantic structure while allowing the Community Group to
 specialize concepts required for healthcare and human-service domains.
 
 ##Guiding Principles
