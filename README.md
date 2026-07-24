@@ -1,5 +1,5 @@
 W3C Community Group Guidelines and Policies (this is "officially" a W3C Community Group):
-* public-ucm@w3.org
+* send all messages to the group to public-ucm@w3.org
 * Code of conduct: https://www.w3.org/policies/code-of-conduct/
 * Patent policy: https://www.w3.org/policies/patent-policy/
 * https://www.w3.org/community/about/process/final/
