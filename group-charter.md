@@ -48,7 +48,7 @@ supported by one or more use cases documenting the purpose and business problem,
 value (quantified where practical), business risks if not addressed, functional and semantic requirements,
 and validation criteria.
 The Community Group will use these use cases to identify, validate, and refine reusable semantic concepts,
-relationships, patterns, and architectural principles. The objective is to evolve the UCM through consensus
+relationships, patterns, and principles. The objective is to evolve the UCM through consensus
 based on demonstrated challenges rather than through abstract or domain-specific modeling.
 
 ## Relationship between the W3C and SULO
