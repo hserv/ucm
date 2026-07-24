@@ -7,19 +7,19 @@ over information that spans these multiple domains of care. Existing standards, 
 ontologies, and implementation guides have evolved independently, creating barriers to semantic
 interoperability, whole-person care coordinated workflows, integrated analytics, and trustworthy AI.
 The Unified Care Model (UCM) Community Group seeks to address these challenges by developing an open,
-computable, cross-domain semantic reference architecture that serves as a semantic bridge, enabling
+computable, cross-domain semantic conceptual structure that serves as a semantic bridge, enabling
 semantic alignment across existing standards, ontologies, information models, and data models without
 requiring changes to those standards or models.
 
 ## Mission
 The mission of the Community Group is to collaboratively develop and maintain the Unified Care Model
-(UCM), an open semantic reference that serves as a semantic bridge across healthcare and
+(UCM), an open semantic conceptual structure that serves as a semantic bridge across healthcare and
 human-service ecosystems. Through community-driven use cases and consensus-based development, the
 Group will establish a common semantic foundation that enables semantic interoperability while
 complementing, rather than replacing, existing standards and information models.
 
 ## What is the UCM?
-The Unified Care Model (UCM) is an open semantic reference architecture that provides a common
+The Unified Care Model (UCM) is an open semantic conceptual structure that provides a common
 semantic foundation for achieving semantic interoperability across healthcare and human-service
 ecosystems. It serves as a semantic bridge that enables standards, ontologies, information models, and data
 models developed by independent communities to communicate with a shared understanding of
@@ -29,7 +29,7 @@ principles that support consistent semantic alignment across diverse domains. Th
 enable organizations to develop and evolve domain-specific information models, ontologies, APIs, exchange
 specifications, and implementation guides while maintaining semantic consistency with related standards
 and models.
-The semantic reference architecture is realized through a computable upper-level ontology, governance
+The semantic conceptual structure is realized through a computable upper-level ontology, governance
 principles, semantic alignment guidance, and other supporting artifacts developed and maintained by the
 Community Group. These artifacts evolve through community-contributed use cases and consensus-based
 development, ensuring that the UCM remains grounded in practical interoperability challenges while
@@ -75,7 +75,7 @@ The UCM does not replace HL7 FHIR, HL7 CDA, HL7 Version 2, X12, openEHR, NIEM, S
 RxNorm, or other standards. It does not define new exchange formats or reusable domain information
 models. Instead, it provides the semantic bridge that enables semantic alignment among them.
 Expected Deliverables
- * Unified Care Model (UCM) Semantic Reference Architecture
+ * Unified Care Model (UCM) Semantic conceptual structure
  * Unified Care Model (UCM) Ontology (OWL/RDF)
  * Governance Framework, defining the processes for the evolution, review, and stewardship of the
 UCM while aligning with applicable W3C Community Group policies, governance principles, and
