@@ -13,7 +13,7 @@ requiring changes to those standards or models.
 
 ## Mission
 The mission of the Community Group is to collaboratively develop and maintain the Unified Care Model
-(UCM), an open semantic reference architecture that serves as a semantic bridge across healthcare and
+(UCM), an open semantic reference that serves as a semantic bridge across healthcare and
 human-service ecosystems. Through community-driven use cases and consensus-based development, the
 Group will establish a common semantic foundation that enables semantic interoperability while
 complementing, rather than replacing, existing standards and information models.
