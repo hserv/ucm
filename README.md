@@ -8,7 +8,8 @@ W3C Community Group Guidelines and Policies (this is "officially" a W3C Communit
 * https://www.w3.org/2026/Talks/w3c-chairtraining.pdf
 * https://www.w3.org/community/about/
 
-https://www.w3.org/community/blog/2026/06/25/proposed-group-unified-care-model-community-group/
+W3C Group Page
+[https://www.w3.org/community/blog/2026/06/25/proposed-group-unified-care-model-community-group/](https://www.w3.org/community/ucm/)
 
 # Visualization: 
 
