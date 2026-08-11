@@ -1,53 +1,38 @@
 # **W3C Community Group Responses**
 
 ## **What problem(s) do you want to solve?**
-[italics represent open questions/tasks]
 Organizations involved in healthcare, social care, housing, justice, education, and other human-service domains increasingly need to exchange, integrate, and reason over information that spans multiple care domains. While many standards, information models, and ontologies exist, they are often developed independently and reflect different perspectives, assumptions, and semantic structures. 
 
-*Add concept that this is (clinically) necessary, not optional.* 
-
-*Recognize USCDI – specific versions and lack of relationship to Care Plan. Investigate in mappings mandatory inclusion in Care Plan.  Recommendations for using clinical coding structures in care plan (where you can).*
-
-*Care Plan as necessary concept.*
-
-*Addressing this problem will enable better outcomes.*
-
-As a result, organizations face significant challenges in achieving semantic interoperability, whole-person care coordination, integrated analytics, AI-enabled reasoning, and the development of applications that require semantically consistent information across domains.
-
-The group seeks to address the lack of a shared semantic framework that can bridge these heterogeneous domain models while preserving their meaning. The goal is to enable more accurate data exchange, integration, reasoning, and reuse across care domains.
-
-The solution to this problem is described as Whole Person Care.
+As a result, organizations face significant challenges in achieving semantic interoperability, whole-person care coordination, integrated analytics, AI-enabled reasoning, and the development of applications that require semantically consistent information across domains.  This impacts both clinical and social outcomes.  Integration across these domains is essential -- not optional -- for better clinical and social outcomes.  For example, the concept of a Care Plan needs to be reflected in an information model that effectively addresses this problem.  The solution to this problem can be characterized as "Whole Person Care".
 
 ## **What is the mission of this Group?**
 
-The mission of the group is to develop an open, computable semantic cross-domain framework for care domains that enables semantic interoperability and equivalence across healthcare, social care, housing, justice, education, and related human-service ecosystems.
+The mission of the group is to develop a Unified Care Model (UCM): an open, cross-domain ontology for care domains, which facilitates semantic interoperability across healthcare, social care, housing, justice, education, and related human-service ecosystems.  This will enable more effective data exchange, integration, reasoning, and reuse across these domains.  
 
-The group will develop the Unified Care Model (UCM), a high-level ontology and semantic reference model that can be used to semantically align and bridge domain-specific information models, ontologies, and standards. It is not a goal to replace existing standard artifacts.
+The UCM will be a high-level ontology that can be used to semantically align and bridge existing domain-specific information models, ontologies, and standards.  The Care Plan is expected to be the most critical component.  The UCM will not replace existing standards.  
 
- *Doesn’t explain Why. The purpose, “So what?”*
+Existing inputs and open questions include, but are not limited to:
+ - United States Core Data for Interoperability (USCDI) https://isp.healthit.gov/united-states-core-data-interoperability-uscdi
+   - Which versions?
+   - Relationship to care plan
+   - Recommendations for using clinical coding structures in care plan
+ - FHIR RDF ontology
+ - Semantic gaps in FHIR
+ - Proposed Unified Care Model (UCM) Architecture https://github.com/hserv/ucm/blob/main/ucm-design-principles.md
 
 ## **Design Principles**
 
-The current version of the project Design Principles document can be found at: https://github.com/hserv/ucm/blob/main/ucm-design-principles.md
+Key design principles -- subject to change by the group -- include:
 
-Key design principles include *such as*:
-
-• UCM developed as an OWL ontology supporting Description Logic reasoning.  
+• UCM to be developed as an OWL ontology supporting Description Logic reasoning.  
 • Uses BFO as the ontological foundation.  
 • Leverages SULO as a semantic classification framework.  
-• Goal is to align model with HL7, HUD, NIEM and other domain artifacts.  
-• Layered architecture of Core Concepts, Participation Concepts, and Domain Concepts.  
-• Enable independent extension by different subject matter experts while maintaining semantic consistency through a shared core.  
+• Aligns with HL7, HUD, NIEM and other domain artifacts.  
+• Uses a layered architecture of Core Concepts, Participation Concepts, and Domain Concepts.  
+• Enables independent extension by different subject matter experts while maintaining semantic consistency through a shared core.  
 • Emphasizes reuse, extensibility, semantic clarity, and cross-domain interoperability.
 
 ## **Will the Group Publish Specifications?**
 
-Yes. The long-term goal of the group is to publish one or more open specifications describing the Unified Care Model and its associated semantic framework.
+Yes. The group anticipates producing a W3C Community Group Report, describing the Unified Care Model.  The long-term goal is to use this report as an input or starting point for further standardization efforts.
 
-The group anticipates producing a W3C Community Group Report.
-
-*Spec as a starting point?*
-
-*FHIR semantic gaps*
-
-*Care plan is the most critical component.*
