@@ -36,8 +36,6 @@ The UCM shall evolve through community-contributed use cases. Each proposed enha
 
 The Community Group will use these use cases to identify, validate, and refine reusable semantic concepts, relationships, patterns, and architectural principles. The objective is to evolve the UCM through consensus based on demonstrated challenges rather than through abstract or domain-specific modeling.
 
-The Community Group may use AI-assisted tools to support its work.  AI-generated content shall be treated as draft material and is subject to human review, validation, and community consensus before inclusion in any Community Group’s consensus process in accordance with applicable W3C polices and processes. 
-
 ## **Relationship between the W3C and SULO**
 
 The Community Group will build upon W3C Semantic Web standards, including RDF, RDFS, OWL, and SHACL, to ensure that the UCM is open, computable, and interoperable within the broader Web of Data.
